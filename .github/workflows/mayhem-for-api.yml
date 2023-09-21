@@ -1,0 +1,4 @@
+curl --request GET \
+  --url https://stoplight.io/mocks/kaspr/kaspr-api:main/152616396/keys/verifyKey \
+  --header 'Accept: application/json' \
+  --header 'authorization: '
